@@ -1,0 +1,21 @@
+# Referenced at F:\J14 Food App\Working Place\J14 Mobile App\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:30
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at F:\J14 Food App\Working Place\J14 Mobile App\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:117
+-keep class com.google.android.gms.auth.api.signin.RevocationBoundService { <init>(); }
+# Referenced at F:\J14 Food App\Working Place\J14 Mobile App\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:108
+-keep class com.google.android.gms.auth.api.signin.internal.SignInHubActivity { <init>(); }
+# Referenced at F:\J14 Food App\Working Place\J14 Mobile App\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:122
+-keep class com.google.android.gms.common.api.GoogleApiActivity { <init>(); }
+# Referenced at F:\J14 Food App\Working Place\J14 Mobile App\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:85
+-keep class com.razorpay.CheckoutActivity { <init>(); }
+# Referenced at F:\J14 Food App\Working Place\J14 Mobile App\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:102
+-keep class com.razorpay.RzpTokenReceiver { <init>(); }
+# Referenced at F:\J14 Food App\Working Place\J14 Mobile App\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:39
+-keep class dev.guruprasath.food_app.MainActivity { <init>(); }
+# Referenced at F:\J14 Food App\Working Place\J14 Mobile App\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:30
+-keep class io.flutter.app.FlutterApplication { <init>(); }
+# Referenced at F:\J14 Food App\Working Place\J14 Mobile App\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:81
+-keep class io.flutter.plugins.urllauncher.WebViewActivity { <init>(); }
+# Referenced at C:\Users\OM\.gradle\caches\transforms-2\files-2.1\e9958cc55c03d73e34dcc1c0207f1c0b\checkout-1.6.6\res\layout\rzp_loader.xml:20
+-keep class com.razorpay.CircularProgressView { <init>(...); }
+
